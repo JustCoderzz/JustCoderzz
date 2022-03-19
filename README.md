@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  🌱 I’m currently learning Java
-  📫 How to reach me: lzy@luzyi.cn
-  🔭 Welcome to my Site : www.luzyi.cn
+ 
+ 📫 How to reach me: lzy@luzyi.cn
+ 
+ 🔭 Welcome to my Site : www.luzyi.cn
