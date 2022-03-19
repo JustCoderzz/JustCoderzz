@@ -20,6 +20,9 @@ Here are some ideas to get you started:
  
  🔭 Welcome to my Site : www.luzyi.cn
  
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JustCoderzz&show_icons=true&hide_border=true" alt="JustCoderzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCoderzz&layout=compact&hide_border=true&hide=html,css" /></a> |
+| ------------- | ------------- |
+ 
  ### Professional Skills 🧬
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.oracle.com/java/technologies/javase-downloads.html)
